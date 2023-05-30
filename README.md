@@ -14,7 +14,7 @@
 - Im Better
 - Im Transgender (m to f)
 - I Have 5 years in java
-- Im a dev for .gg/wmoon
+- Im THE dev for .gg/wmoon
 - English Is My 2nd Language
 - Parz = Bae
 ---
