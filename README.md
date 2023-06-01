@@ -1,5 +1,7 @@
 #### Stats
 [![AlmostGen github stats](https://github-readme-stats.vercel.app/api?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
+[![AlmostGen top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
+
 
 ---
 <a href="https://youtube.com/@OTHGEnterprise"><img alt="we love wik" src="https://media2.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=ecf05e47tv2do352rpa89f60g1h0eh8y9sy4h28yssawt36p&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
