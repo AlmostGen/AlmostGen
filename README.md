@@ -1,7 +1,7 @@
 <p align="center">
 
 #### My Top Languages
-[![AlmostGen top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats) <img alt="we love wik" src="https://gifs.alphacoders.com/gifs/view/2425" align="right"/>
+[![AlmostGen top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats) <img alt="TRNS" src="https://giffiles.alphacoders.com/242/2425.gif" align="right"/>
 #### My Stats
 [![AlmostGen github stats](https://github-readme-stats.vercel.app/api?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
 #### My Streaks / Contributions
