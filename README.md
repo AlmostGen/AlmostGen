@@ -5,9 +5,9 @@
 ---
 <a href="https://youtube.com/@OTHGEnterprise"><img alt="we love wik" src="https://media2.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=ecf05e47tv2do352rpa89f60g1h0eh8y9sy4h28yssawt36p&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
 #### Languages
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
     
 #### IDE
