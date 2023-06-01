@@ -1,7 +1,7 @@
 <p align="center">
 
 #### My Top Languages
-[![AlmostGen top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats) <img alt="TRNS" src="https://giffiles.alphacoders.com/242/2425.gif" align="right"/>
+[![AlmostGen top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats) <img alt="TRNS" src="https://tenor.com/view/goku-black-dbs-saiyan-smirk-gif-9727389" align="right"/>
 #### My Stats
 [![AlmostGen github stats](https://github-readme-stats.vercel.app/api?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
 #### My Streaks / Contributions
