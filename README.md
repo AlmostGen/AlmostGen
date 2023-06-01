@@ -11,7 +11,7 @@
 - ![Go](https://img.shields.io/badge/-Go-f7ff80?style=flat-square&logo=Go)   
     
 #### IDE
-- ![ide](https://img.shields.io/badge/-Visual_Studio_Code-5d7dff?style=flat-square&logo=visualstudiocode)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### About Me
 - Im Better
