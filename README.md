@@ -22,9 +22,9 @@
     
     
 #### DISCLAIMER
-    <p align="center">
-        <h1>EVERYTHING ON MY GITHUB MALWARE OR NOT IS 100% SAFE FOR USE EVERYTHING IS REMOVEABLE AND SAFE FOR USE</h1>
-    </p>
+    
+        EVERYTHING ON MY GITHUB MALWARE OR NOT IS 100% SAFE FOR USE EVERYTHING IS REMOVEABLE AND SAFE FOR USE
+    
 ---
 <p align="center">
     <a href="https://discord.gg/wmoon"><img src="https://img.shields.io/badge/-wmoon-5d7dff?style=flat-square&logo=discord"/></a>
