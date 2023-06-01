@@ -1,7 +1,4 @@
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmostGen&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&layout=compact&theme=light" alt="Top Languages"><br><br>
-</p>
+
 
 ---
 <a href="https://youtube.com/@OTHGEnterprise"><img alt="we love wik" src="https://media2.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=ecf05e47tv2do352rpa89f60g1h0eh8y9sy4h28yssawt36p&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
