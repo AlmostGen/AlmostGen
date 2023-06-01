@@ -1,8 +1,5 @@
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmostGen&show_icons=true&include_all_commits=true&count_private=true"/>
-  
-
-</p>
+#### Stats
+[![AlmostGen github stats](https://github-readme-stats.vercel.app/api?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
 
 ---
 <a href="https://youtube.com/@OTHGEnterprise"><img alt="we love wik" src="https://media2.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=ecf05e47tv2do352rpa89f60g1h0eh8y9sy4h28yssawt36p&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
@@ -11,7 +8,6 @@
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
     
 #### IDES
