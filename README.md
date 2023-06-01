@@ -1,6 +1,8 @@
 #### Stats
 [![AlmostGen top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
 [![AlmostGen github stats](https://github-readme-stats.vercel.app/api?username=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-stats)
+[![AlmostGen github streak](https://github-readme-streak-stats.herokuapp.com/?user=AlmostGen&theme=blue-green)](https://github.com/AlmostGen/github-readme-streak-stats)
+
 
 
 
