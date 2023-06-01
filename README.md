@@ -7,7 +7,7 @@
 #### Languages
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![Python](https://img.shields.io/badge/-Python-f7ff80?style=flat-square&logo=Python)
+- ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 - ![Go](https://img.shields.io/badge/-Go-f7ff80?style=flat-square&logo=Go)   
     
 #### IDE
