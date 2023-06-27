@@ -41,7 +41,7 @@
     
 ---
 <p align="center">
-    <a href="https://discord.gg/wmoon"><img src="https://img.shields.io/badge/-wmoon-5d7dff?style=flat-square&logo=discord"/></a>
+    <a href="https://discord.gg/qnpCSnv7Qb"><img src="https://img.shields.io/badge/-wmoon-5d7dff?style=flat-square&logo=discord"/></a>
     <a href="https://www.youtube.com/@almostgen"><img src="https://img.shields.io/badge/-AlmostGen-5d7dff?style=flat-square&logo=youtube"/></a>
 </p>
 
