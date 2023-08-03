@@ -32,7 +32,7 @@
 - I have 5 years in java
 - Im THE dev for .gg/wmoon
 - English Is My 2nd Language
-- Parz = Bae
+- Pika = Bae 😍
     
     
 #### DISCLAIMER
