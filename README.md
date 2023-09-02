@@ -27,12 +27,8 @@
 - ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 #### About Me
-- Im Better
-- Im Transgender (m to f)
-- I have 5 years in java
-- Im THE dev for .gg/wmoon
-- English Is My 2nd Language
-- Pika = Bae 😍
+- Im A / Kotlin / Java / JavaScript / SKunity / Developer That Just Wants To Make Themselvs Known In The Ethical Hacking Space
+- My Discord™ Tag Is 'AlmostGen#0'
     
     
 #### DISCLAIMER
