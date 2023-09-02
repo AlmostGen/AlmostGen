@@ -27,7 +27,7 @@
 - ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 #### About Me
-- Im A / Kotlin / Java / JavaScript / SKunity / Developer That Just Wants To Make Themselvs Known In The Ethical Hacking Space
+- Im A / Kotlin / Java / JavaScript / HTML / CSS / Developer That Just Wants To Make Themselvs Known In The Ethical Hacking Space
 - My Discord™ Tag Is 'AlmostGen#0'
     
     
