@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://tenor.com/view/goku-black-dbs-saiyan-smirk-gif-9727389.gif" alt="TRNS" align="right"/>
 </p>
 
 ## Hello, I'm AlmostGen! 👋
