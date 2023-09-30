@@ -3,8 +3,6 @@
 
 ## Hello, I'm AlmostGen! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on ethical hacking and a love for programming. Here are some details about me:
-
 - 🔥 My primary languages include JavaScript, Kotlin, Java, HTML, and CSS.
 - 💻 I enjoy working with IDEs like Visual Studio Code, Notepad++, PyCharm, and Eclipse.
 - 🚀 I'm on a journey to make a name for myself in the ethical hacking space.
