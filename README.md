@@ -13,7 +13,7 @@
 - 🔒 Everything on my GitHub, whether related to malware or not, is 100% safe for use. I prioritize safety and ensure that everything is removable and secure for use.
 
 <p align="center">
-    <a href="https://discord.gg/qnpCSnv7Qb"><img src="https://img.shields.io/badge/-Join%20Me%20on%20Discord-5d7dff?style=flat-square&logo=discord"/></a>
+    <a href="https://discord.gg/mtVg3ayW9p"><img src="https://img.shields.io/badge/-Join%20Me%20on%20Discord-5d7dff?style=flat-square&logo=discord"/></a>
     <a href="https://www.youtube.com/@almostgen"><img src="https://img.shields.io/badge/-Check%20out%20my%20YouTube-5d7dff?style=flat-square&logo=youtube"/></a>
 </p>
 
