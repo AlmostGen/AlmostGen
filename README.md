@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hello, I'm AlmostGen! 👋</h1>
-  <p>🔥 JavaScript | Kotlin | Java | HTML | CSS</p>
+  <p>🔥 JavaScript | HTML | CSS</p>
   <p>💻 Visual Studio Code | Notepad++ | PyCharm | Eclipse</p>
   <p>🚀 Ethical Hacker in the Making ( i hope )</p>
   <p>💬 Reach me on Discord™: AlmostGen#0</p>
