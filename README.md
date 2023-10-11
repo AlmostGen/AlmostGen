@@ -1,5 +1,5 @@
 <p align="center">
-    <div class="rounded-image" style="display: block; margin: 0 auto;">
+    <div align="center" class="rounded-image" style="display: block; margin: 0 auto;">
         <img src="imgs/pfp.gif" alt="AlmostGen's Profile Picture" width="150" height="150">
     </div>
 </p>
