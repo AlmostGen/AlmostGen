@@ -36,7 +36,7 @@
 <div align="center">
   <h2>Socials 🔗</h2>
   <p>
-    Follow Me On All My Socials To Stay Updated On My Progress With
+    Follow Me On All My Socials To Stay Updated On My Progress With Projects
   </p>
   <p>
     <a href="https://www.linkedin.com/in/almostgen/">
