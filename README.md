@@ -22,9 +22,6 @@
 <br>
 </div>
 </p>
-<div align="center">
-  <h2>GitHub Stats 📈</h2>
-</div>
 
 <div align="center">
   <h2>Top Languages 🚀</h2>
