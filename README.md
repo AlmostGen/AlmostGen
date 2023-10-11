@@ -1,36 +1,76 @@
 <p align="center">
+    <div class="rounded-image" style="display: block; margin: 0 auto;">
+        <img src="imgs/pfp.gif" alt="AlmostGen's Profile Picture" width="150" height="150">
+    </div>
 </p>
 
-## Hello, I'm AlmostGen! 👋
+<div align="center">
+  <h1>Hello, I'm AlmostGen! 👋</h1>
+  <p>🔥 JavaScript | Kotlin | Java | HTML | CSS</p>
+  <p>💻 Visual Studio Code | Notepad++ | PyCharm | Eclipse</p>
+  <p>🚀 Ethical Hacker in the Making ( i hope )</p>
+  <p>💬 Reach me on Discord™: AlmostGen#0</p>
+</div>
 
-- 🔥 My primary languages include JavaScript, Kotlin, Java, HTML, and CSS.
-- 💻 I enjoy working with IDEs like Visual Studio Code, Notepad++, PyCharm, and Eclipse.
-- 🚀 I'm on a journey to make a name for myself in the ethical hacking space.
-- 💬 Feel free to reach out to me on Discord™ at AlmostGen#0.
-
-### Disclaimer
-
-- 🔒 Everything on my GitHub, whether related to malware or not, is 100% safe for use. I prioritize safety and ensure that everything is removable and secure for use.
-
-<p align="center">
-    <a href="https://discord.gg/mtVg3ayW9p"><img src="https://img.shields.io/badge/-Join%20Me%20on%20Discord-5d7dff?style=flat-square&logo=discord"/></a>
-    <a href="https://www.youtube.com/@almostgen"><img src="https://img.shields.io/badge/-Check%20out%20my%20YouTube-5d7dff?style=flat-square&logo=youtube"/></a>
+<div align="center">
+  <h2>About Me ℹ️</h2>
+  <p>
+   Hey, Welcome To My Github!
+  <p>Here i focus on making quality and useable open-source content.</p>
+  <p>Make sure to follow me here so you can experience my growth and my lenhthy list of soon to be projects!</p>
+  </p>
+<br>
+</div>
 </p>
+<div align="center">
+  <h2>GitHub Stats 📈</h2>
+</div>
 
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlmostGen&theme=blue-green" alt="AlmostGen's GitHub Stats"/>
-</p>
-
-## My Top Languages
-
-<p align="center">
+<div align="center">
+  <h2>Top Languages 🚀</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostGen&theme=blue-green" alt="My Top Languages"/>
-</p>
+</div>
 
-## My Contribution Streak
-
-<p align="center">
+<div align="center">
+  <h2>Contribution Streak 📊</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlmostGen&theme=blue-green" alt="My Contribution Streak"/>
+</div>
+
+<div align="center">
+  <h2>Socials 🔗</h2>
+  <p>
+    Follow Me On All My Socials To Stay Updated On My Progress With
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/almostgen/">
+        <img src="imgs/linkedin.svg" alt="LinkedIn" width="32" height="32">
+    </a>
+    <a href="https://twitter.com/AlmostGen">
+        <img src="imgs/x.svg" alt="Twitter" width="32" height="32">
+    </a>
+  </p>
+</div>
+<p align="center">
+    <a href="https://github.com/AlmostGen">
+      <img src="imgs/github.svg" alt="View My GitHub Profile" width="32" height="32">
+    </a>
+    <a href="https://discord.com/users/1017301174568898600">
+      <img src="imgs/discord.svg" alt="Contact Me On Discord!" width="32" height="32">
+    </a> 
 </p>
+<style>
+    .rounded-image {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        overflow: hidden;
+        border: 2px solid #ccc;
+        display: inline-block;
+    }
+
+    .rounded-image img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+</style>
