@@ -58,3 +58,19 @@
       <img src="imgs/discord.svg" alt="Contact Me On Discord!" width="32" height="32">
     </a> 
 </p>
+<style>
+    .rounded-image {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        overflow: hidden;
+        border: 2px solid #ccc;
+        display: inline-block;
+    }
+
+    .rounded-image img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+</style>
