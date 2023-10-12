@@ -8,7 +8,7 @@
   <h1>Hello, I'm AlmostGen! 👋</h1>
   <p>🔥 | JavaScript | HTML | CSS | 🔥</p>
   <p>💻 | Visual Studio Code | 💻</p>
-  <p>🚀 Web Developer 🚀</p>
+  <p>🚀 | Web Developer | 🚀</p>
   <p>💬 Reach me on Discord™: AlmostGen#0 💬</p>
 </div>
 
