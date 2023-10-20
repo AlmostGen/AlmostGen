@@ -9,7 +9,7 @@
   <p>🔥 | JavaScript | HTML | CSS | 🔥</p>
   <p>💻 | Visual Studio Code | 💻</p>
   <p>🚀 | Web Developer | 🚀</p>
-  <p>💬 Reach me on [**Discord**](https://discord.com/users/1017301174568898600) 💬</p>
+💬 Reach me on [**Discord**](https://discord.com/users/1017301174568898600) 💬
 </div>
 
 <div align="center">
