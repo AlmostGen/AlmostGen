@@ -10,7 +10,7 @@
   <p>💻 | Visual Studio Code | 💻</p>
   <p>🚀 | Web Developer | 🚀</p>
   <p>
-    <a href="https://discord.com/users/1017301174568898600">💬 Reach Out To Me On Discord 💬</a>
+    <a href="https://discord.com/users/945161806035419207">💬 Reach Out To Me On Discord 💬</a>
   </p>
 </div>
 
